@@ -1,0 +1,5 @@
+streamlit
+langchain
+groq
+llama3
+chromadb
